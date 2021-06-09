@@ -1,5 +1,4 @@
 # First
-## Second Heading
 ```
   This is a second heading
 ```
